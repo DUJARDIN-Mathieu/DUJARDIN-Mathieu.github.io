@@ -29,3 +29,19 @@ img.background {
     color: white;
     text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 0px -4px 10px rgba(255,255,255,0.3);
 }
+
+/** main **/
+
+.main {
+    background-color: white;
+    width: 80%;
+    height: 70vh;
+    position: absolute;
+    top: 20vh;
+    left: 10vw;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.main__presentation__img {
+    height: 80%;
+}
