@@ -1,0 +1,31 @@
+/* root */
+
+/** body **/
+
+body {
+    
+}
+
+img.background {
+    height: 70vh;
+    width: 100%;
+    opacity: 0.90;
+    z-index: -1;
+    position: absolute;
+}
+
+/** header**/
+
+.header {
+    padding: 1.5em 1em 0 0 ;
+}
+
+.header__list {
+    
+    display: flex;
+    column-gap: 5vw;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 0px -4px 10px rgba(255,255,255,0.3);
+}
